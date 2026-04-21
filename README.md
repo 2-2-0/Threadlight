@@ -6,28 +6,28 @@ Built to be offline-first, fast, lightweight, and visually modern, Threadlight l
 
 # ✨ Features
 
-Privacy First: 100% local data storage. No cloud accounts, no tracking.
+**Privacy First**: 100% local data storage. No cloud accounts, no tracking.
 
-Frictionless Access: Double-click any saved thread to instantly open it in your default web browser.
+**Frictionless Access**: Double-click any saved thread to instantly open it in your default web browser.
 
-Relational Organization: Group your specific chat threads under broader "Topics" (e.g., Coding, Creative Writing, Recipes).
+**Relational Organization**: Group your specific chat threads under broader "Topics" (e.g., Coding, Creative Writing, Recipes).
 
-Portable Database: Built on SQLite. You can easily move your database file to a synced folder (like Dropbox or Google Drive) to share it across your devices.
+**Portable Database**: Built on SQLite. You can easily move your database file to a synced folder (like Dropbox or Google Drive) to share it across your devices.
 
-Native OS Feel: Built with standard Python libraries, utilizing custom scrollable containers and tailored hover interactions.
+**Native OS Feel**: Built with standard Python libraries, utilizing custom scrollable containers and tailored hover interactions.
 
 # 🚀 Getting Started
 
 Threadlight uses Python's standard libraries, meaning you don't need to install any heavy external dependencies!
 
-Prerequisites
+**Prerequisites**
 
 Python 3.x installed on your system.
 
-[!NOTE]
-Windows/macOS users usually have tkinter and sqlite3 bundled with Python by default. Linux users may need to run sudo apt-get install python3-tk.
 
-Running the App
+*Windows/macOS users usually have tkinter and sqlite3 bundled with Python by default. Linux users may need to run sudo apt-get install python3-tk.*
+
+**Running the App**
 
 Clone or download this repository.
 
@@ -37,7 +37,7 @@ Navigate to the folder containing the app.
 
 Run the application:
 
-python threadlight.py
+` python threadlight.py `
 
 
 # 📖 How to Use Threadlight
@@ -78,8 +78,8 @@ Your default web browser will instantly open to that exact conversation!
 
 Step 4: Configuration (Optional)
 
-[!TIP]
-If you want to back up your data or sync it seamlessly across devices, you can point your local database directly to a cloud drive.
+
+*If you want to back up your data or sync it seamlessly across devices, you can point your local database directly to a cloud drive.*
 
 Click the ⚙ Settings button in the bottom status bar.
 
